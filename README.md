@@ -30,8 +30,12 @@
 - Bacharelado em Ciências da computação (2018) [UNIB](https://www.ibirapuera.br/)
 
 - Cursando  [Santander Bootcamp 2023 - Fullstack Java+Angular, Dio 2023.](https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular)
- 
 
+
+ ## 📚 Meu Portfólio, desenvolvido em HTML - CSS - JavaScript. 
+
+ [Meu portfólio] (https://mgnp1s9fsvxlkadnlvysag.on.drv.tw/portifolio-apresentacao-website/) 
+ 
 ## 💻 HARD SKILLS  
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
