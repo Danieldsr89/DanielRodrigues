@@ -34,7 +34,7 @@
 
  ## 📚 Meu Portfólio, desenvolvido em HTML - CSS - JavaScript. 
 
- [Meu portfólio] (https://mgnp1s9fsvxlkadnlvysag.on.drv.tw/portifolio-apresentacao-website/) 
+ (https://mgnp1s9fsvxlkadnlvysag.on.drv.tw/portifolio-apresentacao-website/) 
  
 ## 💻 HARD SKILLS  
 
