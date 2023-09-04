@@ -9,9 +9,9 @@
         Olá comunidade!!! Me chamo Daniel. Muito obrigado pela visita, é uma prazer te receber aqui!!! 
        </p>     
     </div> 
+ 
 
-  
-
+##
 <div>
     <h3>📱 Conecte-se Comigo  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">   </h3>
 </div>
@@ -24,17 +24,17 @@
   [![Static Badge](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/Danieldsr89)  
  </div> 
 
-
+##
  👨🏼‍🎓 Formação
 
-- Bacharelado em Ciências da computação (2018) [UNIB](https://www.ibirapuera.br/)
+- Bacharel em Ciências da computação (2018) [UNIB](https://www.ibirapuera.br/)
 
 - Cursando  [Santander Bootcamp 2023 - Fullstack Java+Angular, Dio 2023.](https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular)
 
 
  ## 📚 Meu Portfólio, desenvolvido em HTML - CSS - JavaScript. 
 
- (https://mgnp1s9fsvxlkadnlvysag.on.drv.tw/portifolio-apresentacao-website/) 
+ [Click no Link](https://mgnp1s9fsvxlkadnlvysag.on.drv.tw/portifolio-apresentacao-website/)
  
 ## 💻 HARD SKILLS  
 
@@ -52,6 +52,8 @@
 - Proativo
 - Resiliente 
 - Possou um bom relacionamento interpessoal
+##
+<div align="center"> Desenvolvido por Daniel<a href="https://github.com/Danieldsr89">  Danieldsr89</a>.</div>
 
 
 
